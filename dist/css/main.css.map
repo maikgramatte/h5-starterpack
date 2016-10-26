@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,MAAO;EACN,KAAK,EAAE,KAAK;;ACDb,IAAK;EACJ,SAAS,EAAE,IAAI;EAEf,OAAG;IACF,KAAK,EAAE,IAAI",
+"sources": ["../../src/sass/test/foobar.scss","../../src/sass/main.scss"],
+"names": [],
+"file": "main.css"
+}
