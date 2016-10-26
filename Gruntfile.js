@@ -1,5 +1,5 @@
 module.exports = function(grunt) {
-
+	// Basic Task
 	grunt.initConfig({
 		  sass: {
 		    dist: {
