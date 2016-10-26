@@ -1,0 +1,9 @@
+{
+    "name": "user/h5",
+    "description": "H5 Test",
+    "type": "project",
+    "require": {
+        "catfan/medoo": "^1.1",
+        "components/jquery": "2.2.4"
+    }
+}
